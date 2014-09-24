@@ -8,6 +8,7 @@ class DriverManager():
     @staticmethod
     def get_driver_instance():
         return DriverManager.driver
+        #coment
 
     @staticmethod
     def new_driver_instance(browser_name):
